@@ -1,0 +1,5 @@
+pymc3
+arviz
+jupyterlab
+numpy
+statsmodel
