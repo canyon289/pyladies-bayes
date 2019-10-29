@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/canyojn289/pyladies-bayes/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/canyon289/pyladies-bayes/master)
 
 
 # Pyladies Los Angeles Bayes Tutorial
